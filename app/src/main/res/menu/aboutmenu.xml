@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_visit"
+        android:icon="@drawable/ic_baseline_language_24"
+        android:title="check Website"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_donate"
+        android:title="Buy me coffe" />
+    <item
+        android:id="@+id/action_rate"
+        android:title="Rate us" />
+    <item
+        android:id="@+id/action_feedback"
+        android:title="feedback" />
+</menu>
